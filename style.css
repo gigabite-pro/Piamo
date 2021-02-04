@@ -25,7 +25,7 @@ h5{
     font-size: 1.5rem;
     color: white;
     text-align: center;
-    margin-top: 1rem;
+    margin-top: 0.2rem;
 }
 
 .piano{
@@ -63,7 +63,7 @@ h5{
 
 footer{
     position: relative;
-    top: 5px;
+    bottom: 20px;
     width: 100%;
     font-family: 'Lexend Deca', sans-serif;
     font-size: 1.5rem;
